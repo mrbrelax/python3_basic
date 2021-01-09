@@ -1,3 +1,4 @@
+# *args, **kwargs
 print("====EXAMPLE 1====")
 def student(name, age, *marks):
     print("name: ", name)
